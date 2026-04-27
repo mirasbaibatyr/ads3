@@ -52,7 +52,7 @@ public class Main {
                         System.out.println("again");
                 }
             }
-        }
+           }
         scanner.close();
     }
 }
