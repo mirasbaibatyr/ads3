@@ -1,5 +1,5 @@
 BAIBATYR MIRAS IT-2502
-ASSIGMENT 3
+ASSIGMENT 3 \n
 Selection Sort: The algorithm iterates through the array, finds the smallest element, and swaps it with the first one. Then it looks for the second smallest and swaps it with the second, and so on. Complexity: O(n^2).
 Pros: It performs the minimum number of swaps (memory writes), which is useful in specific hardware tasks where writing to memory is "expensive," though the code is generally slower than other algorithms.
 Cons: Inefficient for large datasets due to its quadratic time complexity.
